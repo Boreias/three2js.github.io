@@ -1,7 +1,7 @@
 const options = 
 {
     targetSelector: '#scene',
-    width: 800, height: 600,
+    width: 1200, height: 800,
     backgroundColor: 0xFFFFFF
 }
 
